@@ -22,10 +22,14 @@
   margin-bottom: 48px;
 }
 
-p.bold {
+p.heading {
   font-family: OpenSansBold;
   margin-bottom: 0px;
-} 
+}
+
+p.text {
+  margin-top: 0px;
+}
 
 body {
   font-family: OpenSans;

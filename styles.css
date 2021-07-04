@@ -17,4 +17,6 @@ body {
 h1 {
   font-family: GreatVibes;
   font-size: 72px;
+  padding: 0px; 
+  margin: 0px;
 }

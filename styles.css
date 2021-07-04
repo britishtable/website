@@ -3,3 +3,8 @@ body {
   background: white;
   text-align: center;
 }
+
+@font-face {
+  font-family: GreatVibes;
+  src: url(sansation_light.woff);
+}

@@ -10,7 +10,11 @@
 
 .fabric {
   text-align: left;  
-}  
+} 
+
+.title {
+  margin: 0px;  
+}
 
 body {
   font-family: OpenSans;
@@ -22,5 +26,4 @@ body {
 h1 {
   font-family: GreatVibes;
   font-size: 72px;
-  line-height: 80%;
 }

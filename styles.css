@@ -8,6 +8,11 @@
   src: url(opensans-regular.ttf);
 }
 
+@font-face {
+  font-family: OpenSansBold;
+  src: url(opensans-semibold.ttf);
+}
+
 .fabric {
   text-align: left;  
 } 
@@ -16,6 +21,10 @@
   margin-top: 0px;
   margin-bottom: 96px;
 }
+
+.bold {
+  font-family: OpenSansBold; 
+} 
 
 body {
   font-family: OpenSans;

@@ -8,6 +8,10 @@
   src: url(opensans-regular.ttf);
 }
 
+.fabric {
+  text-align: left;  
+}  
+
 body {
   font-family: OpenSans;
   font-size: 18px;

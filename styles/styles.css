@@ -1,16 +1,16 @@
 @font-face {
   font-family: GreatVibes;
-  src: url(fonts/greatvibes-regular.ttf);
+  src: url(../fonts/greatvibes-regular.ttf);
 }
 
 @font-face {
   font-family: OpenSans;
-  src: url(fonts/opensans-regular.ttf);
+  src: url(../fonts/opensans-regular.ttf);
 }
 
 @font-face {
   font-family: OpenSansBold;
-  src: url(fonts/opensans-semibold.ttf);
+  src: url(../fonts/opensans-semibold.ttf);
 }
 
 .fabric {

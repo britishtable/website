@@ -15,16 +15,16 @@
 
 .fabric {
   text-align: left;
-  line-height: 90%;
 } 
 
 .title {
   margin-top: 0px;
-  margin-bottom: 72px;
+  margin-bottom: 48px;
 }
 
 p.bold {
-  font-family: OpenSansBold; 
+  font-family: OpenSansBold;
+  margin-bottom: 0px;
 } 
 
 body {

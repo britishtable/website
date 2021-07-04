@@ -15,12 +15,12 @@
 body {
   font-family: OpenSans;
   font-size: 18px;
-  text-align: center;
-  padding: 0px; 
-  margin: 0px;
+  text-align: center; 
+  margin: 12px;
 }
 
 h1 {
   font-family: GreatVibes;
   font-size: 72px;
+  line-height: 80%;
 }

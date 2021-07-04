@@ -14,12 +14,13 @@
 }
 
 .fabric {
-  text-align: left;  
+  text-align: left;
+  line-height: 90%;
 } 
 
 .title {
   margin-top: 0px;
-  margin-bottom: 96px;
+  margin-bottom: 72px;
 }
 
 p.bold {

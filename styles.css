@@ -12,10 +12,6 @@
   text-align: left;  
 } 
 
-.title {
-  line-height: 60%;
-}
-
 body {
   font-family: OpenSans;
   font-size: 18px;
@@ -26,4 +22,6 @@ body {
 h1 {
   font-family: GreatVibes;
   font-size: 72px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
 }

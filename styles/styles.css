@@ -16,7 +16,11 @@
 .fabric {
   text-align: left;
   float: left;
-} 
+}
+
+.left {
+  text-align: left;
+}
 
 .title {
   margin-top: 0px;

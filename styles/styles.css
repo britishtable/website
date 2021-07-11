@@ -9,15 +9,18 @@
 }
 
 .title {
-  text-align: center; 
+  text-align: center;
+  margin-bottom: 72px;
 }
 
 .overview {
-  text-align: left; 
+  text-align: left;
+  margin-bottom: 24px;
 }
 
 .material {
-  text-align: left;  
+  text-align: left;
+  margin-bottom: 24px;
 }
 
 h1 {

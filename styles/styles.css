@@ -55,4 +55,9 @@ p {
 ul {
   font-family: OpenSans;
   font-size: 18px;
-  }
+}
+
+ul li {
+  margin: 10px;
+  margin-left: 0px;
+}

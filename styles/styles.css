@@ -21,21 +21,26 @@
 }
 
 h1 {
-  font-family: GreatVibes;  
+  font-family: GreatVibes;
+  font-size: 8;
 }
 
 h2 {
   font-family: OpenSans;
+  font-size: 8;
 }
 
 h3 {
-  font-family: OpenSans;  
+  font-family: OpenSans;
+  font-size: 8;
 }
 
 p {
-  font-family: OpenSans;  
+  font-family: OpenSans;
+  font-size: 8;
 }
 
 ul {
-  font-family: OpenSans;  
+  font-family: OpenSans;
+  font-size: 8;
 }

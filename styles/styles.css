@@ -25,27 +25,27 @@
 
 h1 {
   font-family: GreatVibes;
-  font-size: 96;
+  font-size: 96px;
   margin-bottom: 0px;
 }
 
 h2 {
   font-family: OpenSans;
-  font-size: 24;
+  font-size: 24px;
   margin-top: 0px;
 }
 
 h3 {
   font-family: OpenSans;
-  font-size: 18;
+  font-size: 20px;
 }
 
 p {
   font-family: OpenSans;
-  font-size: 16;
+  font-size: 18px;
 }
 
 ul {
   font-family: OpenSans;
-  font-size: 16;
+  font-size: 18px;
 }

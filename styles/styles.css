@@ -23,11 +23,13 @@
 h1 {
   font-family: GreatVibes;
   font-size: 96;
+  margin-bottom: 0px;
 }
 
 h2 {
   font-family: OpenSans;
   font-size: 24;
+  margin-top: 0px;
 }
 
 h3 {

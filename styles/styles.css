@@ -8,7 +8,34 @@
   src: url(../fonts/opensans-regular.ttf);
 }
 
-@font-face {
-  font-family: OpenSansBold;
-  src: url(../fonts/opensans-semibold.ttf);
+.title {
+  text-align: center; 
+}
+
+.overview {
+  text-align: left; 
+}
+
+.material {
+  text-align: left;  
+}
+
+h1 {
+  font-family: GreatVibes;  
+}
+
+h2 {
+  font-family: OpenSans;
+}
+
+h3 {
+  font-family: OpenSans;  
+}
+
+p {
+  font-family: OpenSans;  
+}
+
+ul {
+  font-family: OpenSans;  
 }

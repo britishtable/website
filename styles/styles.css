@@ -22,13 +22,13 @@ body {
 
 .overview {
   text-align: justify;
-  width: 200px;
+  width: 400px;
   margin-bottom: 24px;
 }
 
 .material {
   text-align: justify;
-  width: 200px;
+  width: 400px;
   margin-bottom: 24px;
 }
 
@@ -42,7 +42,7 @@ h2 {
   font-family: OpenSans;
   font-size: 24px;
   margin-top: 0px;
-  color: darkgrey;
+  color: darkslategrey;
 }
 
 h3 {

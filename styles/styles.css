@@ -37,6 +37,10 @@ body {
   margin-right: 12px;
 }
 
+.gallery {
+  margin: 24px; 
+}
+
 h1 {
   font-family: GreatVibes;
   font-size: 96px;

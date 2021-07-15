@@ -34,7 +34,7 @@ body {
 
 .img1 {
   float: right;
-  text-align: center;
+  margin-right: 48px;
 }
 
 h1 {

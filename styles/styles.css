@@ -32,6 +32,10 @@ body {
   margin-bottom: 24px;
 }
 
+.img1 {
+  float: right;
+}
+
 h1 {
   font-family: GreatVibes;
   font-size: 96px;

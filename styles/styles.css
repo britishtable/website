@@ -1,7 +1,7 @@
 body {
-  margin-top: 12px;
-  margin-right: 72px;
-  margin-left: 72px;
+  margin-top: 24px;
+  margin-right: 48px;
+  margin-left: 48px;
   margin-bottom: 48px;
 }
 
@@ -34,7 +34,7 @@ body {
 
 .img1 {
   float: right;
-  margin-right: 12px;
+  margin-right: 48px;
 }
 
 .gallery {

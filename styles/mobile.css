@@ -1,1 +1,89 @@
-bruh moment
+body {
+  margin: 24px;
+}
+
+@font-face {
+  font-family: GreatVibes;
+  src: url(../fonts/greatvibes-regular.ttf);
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url(../fonts/opensans-regular.ttf);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 72px;
+}
+
+.overview {
+  text-align: justify;
+  width: 600px;
+  margin-bottom: 24px;
+  margin-left: 24px;
+}
+
+.material {
+  text-align: justify;
+  width: 600px;
+  margin-bottom: 108px;
+  margin-left: 24px;
+}
+
+#img1 {
+  float: right;
+  margin-right: 108px;
+}
+
+.end {
+  text-align: center; 
+}
+
+.polaroid {
+  float: left;
+  width: 320px;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 48px;
+}
+
+.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+h1 {
+  font-family: GreatVibes;
+  font-size: 96px;
+  margin-bottom: 0px;
+}
+
+h2 {
+  font-family: OpenSans;
+  font-size: 24px;
+  margin-top: 0px;
+  color: darkslategrey;
+}
+
+h3 {
+  font-family: OpenSans;
+  font-size: 20px;
+}
+
+p {
+  font-family: OpenSans;
+  font-size: 18px;
+}
+
+ul {
+  font-family: OpenSans;
+  font-size: 18px;
+  padding: 0px;
+  margin: 0px;
+  margin-left: 24px;
+}

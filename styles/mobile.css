@@ -18,11 +18,13 @@ body {
 }
 
 .title {
+  text-align: center;
   margin-bottom: 72px;
 }
 
 .overview {
   margin-bottom: 24px;
+  text-align: justify;
 }
 
 .material {
